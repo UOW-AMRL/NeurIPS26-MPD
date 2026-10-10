@@ -50,15 +50,15 @@ When using ADNI data in a manuscript, users should also follow the official ADNI
 
 ## Repository Status
 
-TBD
+TBD.
 
 ## Installation & Usage
 
-TBD
+TBD.
 
 ## Repository Structure
 
-TBD
+TBD.
 
 ## Release Roadmap
 
